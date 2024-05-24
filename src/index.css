@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Outfit",Arial,Helvetica,sans-serif;
+}
+
+
+*::-webkit-scrollbar {
+    display: none;
+}
+* {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}

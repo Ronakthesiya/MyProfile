@@ -1,0 +1,30 @@
+[
+    {
+        "title":"GroupChat",
+        "desc":"Quick conversations are possible because messages are delivered in real-time.",
+        "skills":["NodeJs","WebSockets","JavaScript","CSS"],
+        "demo":"https://ronakthesiya.github.io/GroupChat_FrontEnd_/",
+        "source":"https://github.com/Ronakthesiya/GroupChat"
+    },
+    {
+        "title":"Event Management",
+        "desc":"This is a website for managing events. Admin and student enter in their panel by login/sign-up",
+        "skills":["ReactJs","NodeJs","MongoDB","JavaScript"],
+        "demo":"https://eventmanagementronakthesiya.netlify.app/",
+        "source":"https://github.com/Ronakthesiya/EventManagement"
+    },
+    {
+        "title":"Task Manager",
+        "desc":"A website powered by Angular that provides Task Management.User-friendly interface for adding, editing, and deleting tasks.",
+        "skills":["AngularJs","TypeScript","CSS","HTML"],
+        "demo":"https://taskmanagerbyronakthesiya.netlify.app/",
+        "source":"https://github.com/Ronakthesiya/Task_Manager_Angular"
+    },
+    {
+        "title":"Weather app",
+        "desc":"A weather app powered by ReactJS that provides instant updates and personalized forecasts.Use open whether API for this project.",
+        "skills":["ReactJs","JavaScript","CSS","HTML"],
+        "demo":"https://weatherappbyronak.onrender.com/",
+        "source":"https://github.com/Ronakthesiya/WeatherApp"
+    }
+]

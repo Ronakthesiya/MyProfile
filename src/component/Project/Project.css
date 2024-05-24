@@ -1,0 +1,41 @@
+.container4{
+    margin-top: 76px;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    z-index: 1;
+}
+
+.title4{
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    z-index: 1;
+}
+
+.projects{
+    margin-top: 37px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 75px;
+    width: 100%;
+    z-index: 1;
+}
+
+.fiveBlur{
+    position: absolute;
+    width: 40vw;
+    height: 40vw;
+    min-width: 50px;
+    min-height: 50px;
+    top: 2600px;
+    left: -5vw;
+    border-radius: 764px;
+    background: rgba(25,55,100,0.7);
+    filter: blur(100px);
+    z-index: 0;
+}
