@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MyProfile/static/css/main.2e046788.css",
+    "main.js": "/MyProfile/static/js/main.8d4d0a22.js",
+    "static/media/myImage3.png": "/MyProfile/static/media/myImage3.c72047127eaec327d5b7.png",
+    "static/media/myImage2.png": "/MyProfile/static/media/myImage2.6f2d9b294a5dd5c83394.png",
+    "static/media/tapovan.jpg": "/MyProfile/static/media/tapovan.159bab00352d1edf01b5.jpg",
+    "static/media/React.png": "/MyProfile/static/media/React.7b4050522469bb4eec75.png",
+    "static/media/SQL.png": "/MyProfile/static/media/SQL.ff5c4aa93da43f6b17ad.png",
+    "static/media/node.png": "/MyProfile/static/media/node.a9c76b6f14ed9db07372.png",
+    "static/media/C.png": "/MyProfile/static/media/C.2d2c4fc09f13f73d7029.png",
+    "static/media/CSS.png": "/MyProfile/static/media/CSS.1f79f918b01493555ea1.png",
+    "static/media/Html.png": "/MyProfile/static/media/Html.79964194a657b49a4977.png",
+    "static/media/flutter.png": "/MyProfile/static/media/flutter.9d4ee6e5b465599294d6.png",
+    "static/media/JS.png": "/MyProfile/static/media/JS.a42640577925ab731729.png",
+    "static/media/Mongo.png": "/MyProfile/static/media/Mongo.b50372d34a38ea80b487.png",
+    "static/media/Angular.png": "/MyProfile/static/media/Angular.91ce6d73e952881f36c3.png",
+    "static/media/DU.jpeg": "/MyProfile/static/media/DU.36dcada21373907fe9ed.jpeg",
+    "static/media/python.png": "/MyProfile/static/media/python.c00a518b742cefae0eb5.png",
+    "static/media/Java.png": "/MyProfile/static/media/Java.d88fc450d69e97342c4b.png",
+    "static/media/Leetcode.png": "/MyProfile/static/media/Leetcode.22606e26e8e8754ddeaa.png",
+    "static/media/codeforces.png": "/MyProfile/static/media/codeforces.8ecaabe85c49c0d0e501.png",
+    "static/media/github.png": "/MyProfile/static/media/github.2720e8a818fa7213eede.png",
+    "static/media/TS.png": "/MyProfile/static/media/TS.a4fca977aed1b957a2e8.png",
+    "index.html": "/MyProfile/index.html",
+    "main.2e046788.css.map": "/MyProfile/static/css/main.2e046788.css.map",
+    "main.8d4d0a22.js.map": "/MyProfile/static/js/main.8d4d0a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e046788.css",
+    "static/js/main.8d4d0a22.js"
+  ]
+}
