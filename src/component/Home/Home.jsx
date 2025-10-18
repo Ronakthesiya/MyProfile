@@ -8,9 +8,10 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 import ReactImg from '../../assets/React.png';
-import AngularImg from '../../assets/Angular.png';
+import ASPNET from '../../assets/ASPNET2.png';
 import NodeImg from '../../assets/node.png';
 import CSSImg from '../../assets/CSS.png';
+import Angular from '../../assets/Angular.png';
 import HTMLImg from '../../assets/Html.png';
 import JavaScriptImg from '../../assets/JS.png';
 import MongoDBImg from '../../assets/Mongo.png';
@@ -26,18 +27,18 @@ import CImg from '../../assets/C.png';
 const Home = () => {
 
   const skills = [
+    { title: 'Java', imageSrc: JavaImg },
+    { title: 'Python', imageSrc: PythonImg },
     { title: 'React.js', imageSrc: ReactImg },
-    { title: 'Angular', imageSrc: AngularImg },
     { title: 'Node.js', imageSrc: NodeImg },
+    { title: 'ASP.NET core', imageSrc: ASPNET },
+    { title: 'Angular', imageSrc: Angular },
     { title: 'CSS', imageSrc: CSSImg },
     { title: 'HTML', imageSrc: HTMLImg },
     { title: 'JavaScript', imageSrc: JavaScriptImg },
     { title: 'MongoDB', imageSrc: MongoDBImg },
     { title: 'MySQL', imageSrc: MySQLImg },
-    { title: 'Flutter', imageSrc: FlutterImg },
     { title: 'TypeScript', imageSrc: TypeScriptImg },
-    { title: 'Java', imageSrc: JavaImg },
-    { title: 'Python', imageSrc: PythonImg },
     { title: 'C', imageSrc: CImg }
   ];
 
@@ -72,7 +73,7 @@ MySQL and Flutter
             <div className='educationItemsText'>
               <h3>B.Tech - CSE</h3>
               <p> Darshan University, Rajkot </p>
-              <p> Semester - 4 | CGPA:9.38 </p>
+              <p> Semester - 7 | CGPA:9.35 </p>
             </div>
           </li>
           <li className='educationItem' data-aos="fade-left">

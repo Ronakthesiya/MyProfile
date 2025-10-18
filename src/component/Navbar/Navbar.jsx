@@ -22,12 +22,12 @@ return (
             <span></span>
         </div>
         <ul className={menuOpen ? "open" : ""}>
-            <li><a href="/#home" onClick={closeMenu}>Home</a></li>
-            <li><a href="/#education" onClick={closeMenu}>Education</a></li>
-            <li><a href="/#skill" onClick={closeMenu}>Skill</a></li>
-            <li><a href="/#project" onClick={closeMenu}>Project</a></li>
-            <li><a href="/#codingprofile" onClick={closeMenu}>Coding Profile</a></li>
-            <li><a href="/#contact" onClick={closeMenu}>Contact</a></li>
+            <li><a href="/MyProfile/#home" onClick={closeMenu}>Home</a></li>
+            <li><a href="/MyProfile/#education" onClick={closeMenu}>Education</a></li>
+            <li><a href="/MyProfile/#skill" onClick={closeMenu}>Skill</a></li>
+            <li><a href="/MyProfile/#project" onClick={closeMenu}>Project</a></li>
+            <li><a href="/MyProfile/#codingprofile" onClick={closeMenu}>Coding Profile</a></li>
+            <li><a href="/MyProfile/#contact" onClick={closeMenu}>Contact</a></li>
         </ul>
     </nav>
 )

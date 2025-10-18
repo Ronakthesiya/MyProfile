@@ -1,30 +1,51 @@
 [
     {
+        "title":"BOX Cricket",
+        "desc":"Developed a box cricket management system for organizers and players. Integrated PayPal for secure payments.",
+        "skills":["ASP.NET","SQL","JavaScript","PayPal API"],
+        "Demo":"http://boxcricket.somee.com",
+        "source":"https://github.com/Ronakthesiya/BOXCricket"
+    },
+    {
         "title":"GroupChat",
         "desc":"Quick conversations are possible because messages are delivered in real-time.",
         "skills":["NodeJs","WebSockets","JavaScript","CSS"],
-        "demo":"https://ronakthesiya.github.io/GroupChat_FrontEnd_/",
+        "Demo":"https://ronakthesiya.github.io/GroupChat_FrontEnd_/",
         "source":"https://github.com/Ronakthesiya/GroupChat"
     },
     {
         "title":"Event Management",
         "desc":"This is a website for managing events. Admin and student enter in their panel by login/sign-up",
         "skills":["ReactJs","NodeJs","MongoDB","JavaScript"],
-        "demo":"https://eventmanagementronakthesiya.netlify.app/",
+        "Demo":"https://eventmanagementronakthesiya.netlify.app/",
         "source":"https://github.com/Ronakthesiya/EventManagement"
+    },
+    {
+        "title":"Quiz Management",
+        "desc":"Engineered a real-time assessment platform enabling smooth quiz creation, participation, and evaluation. secure authentication, dynamic questions.",
+        "skills":["ReactJs","NodeJs","MongoDB","Gemini API"],
+        "Demo":"https://github.com/Ronakthesiya/Quiz-Hiring-Platform",
+        "source":"https://github.com/Ronakthesiya/Quiz-Hiring-Platform"
+    },
+    {
+        "title":"AgroTech",
+        "desc":"Designed and implemented a ML-based prediction model for detecting plant diseases, improving early detection accuracy by 97%.",
+        "skills":["MERN", "Python", "TensorFlow", "Tailwind CSS" ],
+        "Demo":"https://github.com/Ronakthesiya/AgroTech",
+        "source":"https://github.com/Ronakthesiya/AgroTech"
     },
     {
         "title":"Task Manager",
         "desc":"A website powered by Angular that provides Task Management.User-friendly interface for adding, editing, and deleting tasks.",
         "skills":["AngularJs","TypeScript","CSS","HTML"],
-        "demo":"https://taskmanagerbyronakthesiya.netlify.app/",
+        "Demo":"https://taskmanagerbyronakthesiya.netlify.app/",
         "source":"https://github.com/Ronakthesiya/Task_Manager_Angular"
     },
     {
         "title":"Weather app",
         "desc":"A weather app powered by ReactJS that provides instant updates and personalized forecasts.Use open whether API for this project.",
         "skills":["ReactJs","JavaScript","CSS","HTML"],
-        "demo":"https://weatherappbyronak.onrender.com/",
+        "Demo":"https://weatherappbyronak.onrender.com/",
         "source":"https://github.com/Ronakthesiya/WeatherApp"
     }
 ]

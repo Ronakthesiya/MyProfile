@@ -24,11 +24,11 @@ const CodingProfile = () => {
           <div className='codelink'>
             Profile : <a href='https://leetcode.com/u/Ronak_Thesiya/'>Ronak_Thesiya</a>
             <br/>
-            Contest Rating : 1689
+            Contest Rating : 1900+
             <br/>
-            Global Ranking : 70,865
+            Global Ranking : 14,801
             <br/>
-            Problem solved : 559
+            Problem solved : 1150+
           </div>
         </div>
         </div>
@@ -42,9 +42,9 @@ const CodingProfile = () => {
             <div className='codelink'>
               Profile : <a href='https://codeforces.com/profile/Ronak_Thesiya'>Ronak_Thesiya</a>
               <br/>
-              Contest Rating : 1029
+              Contest Rating : 1070+
               <br/>
-              Problem Solved : 252
+              Problem Solved : 400+
               <br/>
             </div>
           </div>
