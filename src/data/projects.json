@@ -3,7 +3,7 @@
         "title":"BOX Cricket",
         "desc":"Developed a box cricket management system for organizers and players. Integrated PayPal for secure payments.",
         "skills":["ASP.NET","SQL","JavaScript","PayPal API"],
-        "Demo":"http://boxcricket.somee.com",
+        "Demo":"http://boxcrickets.somee.com",
         "source":"https://github.com/Ronakthesiya/BOXCricket"
     },
     {
