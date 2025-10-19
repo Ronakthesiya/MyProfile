@@ -17,7 +17,7 @@
         "title":"Event Management",
         "desc":"This is a website for managing events. Admin and student enter in their panel by login/sign-up",
         "skills":["ReactJs","NodeJs","MongoDB","JavaScript"],
-        "Demo":"https://eventmanagementronakthesiya.netlify.app/",
+        "Demo":"https://eventoeventmanagement.netlify.app/",
         "source":"https://github.com/Ronakthesiya/EventManagement"
     },
     {
